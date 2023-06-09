@@ -1,3 +1,5 @@
 Para correr este programa solo debes usar el siguiente comando:
 
-docker build -t myscript .
+pip install -r requirements.txt
+
+Previamente puedes crear un ambiente virtual
